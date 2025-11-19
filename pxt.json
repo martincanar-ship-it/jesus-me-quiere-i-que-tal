@@ -1,5 +1,6 @@
 {
     "name": "jesus me quiere I QUE TAL",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
